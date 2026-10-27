@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Garage Moto - Générateur Excel OpenPyXL",
+  "description": "Système de gestion professionnel pour atelier de réparation moto avec génération automatique de classeur Excel openpyxl (Dashboard, KPI, clients, stock, réparations, TVA 18%, FCFA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
